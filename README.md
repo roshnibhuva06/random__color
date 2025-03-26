@@ -31,5 +31,4 @@ Here are a few options for a description of a color changer you made using HTML,
 
 Choose the description that best fits the context in which you'll be using it (e.g., a portfolio, a project explanation, a social media post). Good luck!
 
-https://github.com/user-attachments/assets/7c40ed51-78fa-4c26-870f-171744887f80
 
