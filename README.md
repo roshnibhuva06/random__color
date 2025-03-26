@@ -29,6 +29,10 @@ Here are a few options for a description of a color changer you made using HTML,
 * **Any specific features:** Random color generation, user input, transitions, etc.
 * **The purpose (if any):** Demonstration of web fundamentals, interactive element, etc.
 
+https://github.com/user-attachments/assets/e4b76b4f-136b-4369-8f93-efcc7e87099f
+
+
+
 Choose the description that best fits the context in which you'll be using it (e.g., a portfolio, a project explanation, a social media post). Good luck!
 
 
