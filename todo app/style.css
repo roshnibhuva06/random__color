@@ -1,0 +1,27 @@
+h3
+{
+    text-align: center;
+    font-size: 33px;
+}
+input
+{
+    height: 29px;
+    width: 18%;
+    background-color: lightgray;
+    border-radius:50px;
+    font-size: 20px;
+    padding: 10px;
+    color: lightslategray;
+    margin-left: 43%;
+}
+#btn
+{
+    font-size: 23px;
+    margin-left: 54%;
+    position: absolute;
+    top: 17%;
+    border-radius: 50px;
+    background-color: orange;
+    left: 48px;
+    
+}
