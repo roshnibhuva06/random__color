@@ -25,7 +25,7 @@ $("#btn").on("click", function () {
     isvalid = false;
     $("#error2").text("password not  accepted!");
   }
-  if (!password == conform_password) {
+  if (password != conform_password) {
     isvalid = false;
     $("#error2").text("password not sam!");
   }
