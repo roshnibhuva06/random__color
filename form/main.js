@@ -4,9 +4,9 @@ $("#btn").on("click", function () {
   const passwordvalidator =
     /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$/;
 
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-  const conform_password = document.getElementById("conform_password").value;
+  const email =$("email").val;
+  const password = $("password").val;
+  const conform_password = $("conform_password").val;
   let isvalid = true;
 
   console.log(email);
