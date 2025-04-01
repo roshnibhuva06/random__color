@@ -14,7 +14,7 @@ $("#btn").on("click", function () {
   console.log(conform_password);
 
   if (email === "" || !emailvalidator.test(email)) {
-    $("#err").text("email is invalid!");
+    $("#error").text("email is invalid!");
     isvalid = false;
   }
   if (
@@ -23,14 +23,18 @@ $("#btn").on("click", function () {
    ! passwordvalidator.test(password)
   ) {
     isvalid = false;
-    $("#err2").text("password not  accepted!");
+    $("#error2").text("password not  accepted!");
   }
   if (!password == conform_password) {
     isvalid = false;
-    $("#err2").text("password not sam!");
+    $("#error2").text("password not sam!");
   }
   if (isvalid) {
-    $("#err2").text("sing up successfully");
+    $("#status").text("sing up successfully");
+  }
+  else
+  {
+     $("#status").text("sing up faild!");
   }
 
   console.log("passed!");
